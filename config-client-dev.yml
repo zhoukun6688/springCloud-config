@@ -1,7 +1,10 @@
 info:
   profile: dev
   from: zhoukun@6688
-  name : zhoukun
-  age  : 18
   desc : 开发环境
+userInfo:
+  name:zhoukun
+  age:18
+  sex:1
+  adress:海淀
 
